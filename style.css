@@ -4,8 +4,8 @@ html {
     background-size: cover;
   }
   
-  body, html{
-    background: url('https://w.wallhaven.cc/full/mp/wallhaven-mp8or9.jpg') bottom center;
+  body{
+    background: url('https://w.wallhaven.cc/full/mp/wallhaven-mp8or9.jpg') center;
     margin: 0;
     padding: 0;
     min-height: 100vh;
